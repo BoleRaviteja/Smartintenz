@@ -1,6 +1,9 @@
 🧠 Team ID : LTVIP2025TMID43878
+
 Team Size : 4
+
 👨‍💻 Team Members
+
 Team Leader : Dalavai Ruchitha
 
 Team member : Bole Ravi Teja
@@ -8,6 +11,7 @@ Team member : Bole Ravi Teja
 Team member : Boddupalli Venkata Hemalatha
 
 Team member : Chaganti Dharmaja
+
 🧬 HematoVision: Advanced Blood Cell Classification Using Transfer Learning
 HematoVision is a deep learning-powered web application designed to classify microscopic images of blood cells into one of four categories:
 
@@ -29,12 +33,14 @@ This makes HematoVision an ideal assistant for biomedical learners, educators, a
 ✅ Lightweight model (MobileNetV2) for quick inference
 ✅ Web interface with smooth UX and visual feedback
 ✅ Base64 image embedding for fast, secure previews
+
 🛠️ Tech Stack
 Layer	Technologies Used
 Model	TensorFlow / Keras with MobileNetV2
 Backend	Python, Flask
 Image Ops	OpenCV for image preprocessing
 Frontend	HTML5, CSS3 (light theme with stunning UI)
+
 📁 Project Structure
 HematoVision/
 ├── app.py               # Main Flask application
@@ -44,6 +50,7 @@ HematoVision/
 └── templates/           # HTML templates
     ├── home.html        # File upload and landing page
     └── result.html      # Prediction result display page
+    
 💻 Run Locally
 You can run this project easily on your local system. Just follow these steps:
 
